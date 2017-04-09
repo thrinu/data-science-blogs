@@ -28,4 +28,5 @@ for url in feeds:
         if dt >= past_month:
             per_month += 1
 
-print('Blog post frequency (roughly): {} per week / {} per month.'.format(per_week, per_month))
+print('Blog post frequency (roughly): {} per week / {} per month.'.format(per_week, per_month));
+print('first post of trinath');
